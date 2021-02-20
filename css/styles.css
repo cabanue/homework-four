@@ -335,7 +335,7 @@ nav .links .no-border {
   border: none;
 }
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 1050px) {
   nav {
     width: 90%;
   }
