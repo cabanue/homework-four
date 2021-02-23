@@ -23,9 +23,12 @@ nav {
       font-size: 15px;
       border-right: 1px solid $site-blue;
       padding-right: 20px;
+      float: right;
     }
     .no-border {
+      padding-right: 0px;
       border: none;
+      margin-right: 0px;
     }
   }
 }
